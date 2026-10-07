@@ -1,0 +1,5 @@
+Model,AUROC,AUPRC,Recall,Precision
+Clinical baseline,0.851,0.318,0.867,0.223
+Clinical + comorbidities,0.857,0.329,0.876,0.226
+Clinical only — X-ray cohort,0.784,0.222,0.6,0.188
+Clinical + radiology,0.801,0.206,0.543,0.211

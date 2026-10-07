@@ -220,6 +220,11 @@ __marimo__/
 .streamlit/secrets.toml
 
 
+# Raw/local data - never push
 data/
-*.csv
+
+# Jupyter temporary files
 .ipynb_checkpoints/
+
+# Streamlit secrets - never push
+.streamlit/secrets.toml
